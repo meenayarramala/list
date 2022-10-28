@@ -8,4 +8,7 @@ while i<len(a):
                     b.append(c)
                     p=p*c
           i=i+1
+print(b)
 print(p)
+
+ 
